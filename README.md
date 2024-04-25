@@ -13,14 +13,12 @@ Arquitetura Model-View-Controller(MVC) de uma aplicação web, que utiliza o fra
 ## Diagrama
 <h3>Diagrama da Landing Page</h3>
 <div align="center" width="100%">
- <sub>Figura 1: Aquitetura MVC da Plataforma</sub><br>
 <img src = "assets/MVCLandingPage.png " alt="MVCLandingPage">
-<sup>Fonte: Material produzido pelos autores (2024)</sup>
+<sup>Figura 1: Aquitetura MVC da Landing Page, Fonte: Material produzido pelos autores (2024)</sup>
 </div>
 
 <h3>Diagrama da Plataforma</h3>
 <div align="center" width="100%">
- <sub>Figura 2: Aquitetura MVC da Plataforma</sub><br>
 <img src = "assets/MVCPlataforma.png " alt="MVCPlataforma">
-<sup>Fonte: Material produzido pelos autores (2024)</sup>
+<sup>Figura 2: Aquitetura MVC da Plataforma, Fonte: Material produzido pelos autores (2024)</sup>
 </div>
