@@ -20,6 +20,7 @@ Os diagramas do MVC foram criados e divididos em duas imagens diferentes. Uma se
 <img src = "assets/MVCLandingPage.png " alt="MVCLandingPage">
 <sup>Figura 1: Aquitetura MVC da Landing Page, Fonte: Material produzido pelos autores (2024)</sup>
 </div>
+Nesse diagrama, os itens na coluna "Views" são as diferentes páginas da "Landing Page" do site. Os diferentes itens da coluna "Controllers" se referem aos métodos HTTP sendo utilizados em cada página. O item da coluna "Models" está relacionado às informações a serem enviadas para a base de dados "PostgreSQL".
 
 ### Diagrama da Plataforma
 <div align="center" width="100%">
