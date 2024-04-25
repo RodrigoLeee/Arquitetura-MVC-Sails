@@ -13,7 +13,7 @@ Construir uma aplicação web que usa o framework "Sails.js", ambiente de execu�
 
 ## Diagrama
 ### Sobre Diagramas
-Os diagramas do MVC foram criados e dividos em duas imagens diferentes. Uma se refere a "Landing Page" e a outra à "Plataforma". Isso permite uma maior organização durante o planejamento, desenvolvimento e implementação da arquitetura. Também, pois se fosse apenas uma imagem, ficaria com conteúdo excesso de conteúdo.
+Os diagramas do MVC foram criados e dividos em duas imagens diferentes. Uma se refere a "Landing Page" e a outra à "Plataforma". Isso permite uma maior organização durante o planejamento, desenvolvimento e implementação da arquitetura. Também, pois se fosse apenas uma imagem, ficaria com um excesso de conteúdo diminuindo legibilidade devido ao zoom da imagem.
 
 ### Diagrama da Landing Page
 <div align="center" width="100%">
