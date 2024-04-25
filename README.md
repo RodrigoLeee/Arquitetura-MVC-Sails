@@ -16,11 +16,11 @@ Construir uma aplicação web que usa o framework "Sails.js", ambiente de execu�
 Os diagramas do MVC foram criados e divididos em duas imagens diferentes. Uma se refere a "Landing Page" e a outra à "Plataforma". Isso permite uma maior organização durante o planejamento, desenvolvimento e implementação da arquitetura. Também, pois se fosse apenas uma imagem, ficaria com um excesso de conteúdo, diminuindo a legibilidade devido ao zoom ou tamanho da letra.
 
 ### Diagrama da Landing Page
+Nesse diagrama, os itens na coluna "Views" são as diferentes páginas da "Landing Page" do site. Os diferentes itens da coluna "Controllers" se referem aos métodos HTTP sendo utilizados em cada página. O item da coluna "Models" está relacionado às informações a serem enviadas para a base de dados "PostgreSQL".
 <div align="center" width="100%">
 <img src = "assets/MVCLandingPage.png " alt="MVCLandingPage">
 <sup>Figura 1: Aquitetura MVC da Landing Page, Fonte: Material produzido pelos autores (2024)</sup>
 </div>
-Nesse diagrama, os itens na coluna "Views" são as diferentes páginas da "Landing Page" do site. Os diferentes itens da coluna "Controllers" se referem aos métodos HTTP sendo utilizados em cada página. O item da coluna "Models" está relacionado às informações a serem enviadas para a base de dados "PostgreSQL".
 
 ### Diagrama da Plataforma
 <div align="center" width="100%">
