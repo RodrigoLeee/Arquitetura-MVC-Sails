@@ -2,14 +2,14 @@
 ## Descrição
 
 ## Análise e Definição do Escopo
-<h6>Objetivo</h6>
+<h3>Objetivo</h3>
 
-<h6>Módulos, Funcionalidades, Recursos</h6>
+<h3>Módulos, Funcionalidades, Recursos</h3>
 
-<h6>Escopo</h6>
+<h3>Escopo</h3>
 
 ## Diagrama
-<h6>Diagrama da Landing Page</h6>
+<h3>Diagrama da Landing Page</h3>
 <img src = "assets/MVCLandingPage.png " alt="MVCPlataforma">
-<h6>Diagrama da Plataforma</h6>
+<h3>Diagrama da Plataforma</h3>
 <img src = "assets/MVCPlataforma.png " alt="MVCPlataforma">
