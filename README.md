@@ -12,6 +12,9 @@ Construir uma aplicação web que usa o framework "Sails.js", ambiente de execu�
 <h3>Escopo</h3>
 
 ## Diagrama
+### Sobre Diagramas
+O diagrama do MVC foi criado e divido em duas imagens diferentes. Uma se refere a "Landing Page" e a outra à "Plataforma".
+
 <h3>Diagrama da Landing Page</h3>
 <div align="center" width="100%">
 <img src = "assets/MVCLandingPage.png " alt="MVCLandingPage">
