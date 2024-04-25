@@ -5,7 +5,7 @@ Arquitetura Model-View-Controller(MVC) de uma aplicação web, que utiliza o fra
 
 ## Análise e Definição do Escopo
 <h3>Objetivo</h3>
-Construir uma aplicação web que usa o framework "Sails.js", ambiente de execução "Node.js" e o serviço "Render" para estabelecer uma arquitetura Model-View-Controller(MVC), que se conecta com um cliente web, que interage com o usuário por meio de HTML, CSS e Javascript. 
+Construir uma aplicação web que usa o framework "Sails.js", ambiente de execução "Node.js" e o serviço "Render" para estabelecer uma arquitetura Model-View-Controller(MVC), que se conecta com um cliente web, que interage com o usuário por meio de HTML, CSS e Javascript. O MVC troca dados no com um back-end contendo uma base de dados construída por meio do PostegreSQL.
 
 <h3>Módulos, Funcionalidades, Recursos</h3>
 
