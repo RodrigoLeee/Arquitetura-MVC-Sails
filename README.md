@@ -41,6 +41,7 @@ Funcionalidades Essenciais
 </div>
 
 ### Diagrama da Plataforma
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nesse diagrama, os itens na coluna "Views" são as diferentes páginas e funcionalidades da "Plataforma". Os diferentes itens da coluna "Controllers" se referem aos métodos HTTP sendo utilizados em cada página. O item da coluna "Models" está relacionado às informações a serem enviadas para a base de dados "PostgreSQL".
 <div align="center" width="100%">
 <img src = "assets/MVCPlataforma.png " alt="MVCPlataforma">
 <sup>Figura 2: Aquitetura MVC da Plataforma, Fonte: Material produzido pelos autores (2024)</sup>
