@@ -1,7 +1,7 @@
 # Arquitetura Model-View-Controller(MVC) 
 ## Descrição
 ### Descrição
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Desenvolvimento e apresentação de uma proposta de uma arquitetura detalhada para o projeto em grupo com a Parceiros Voltuntários. Arquitetura Model-View-Controller(MVC) de uma aplicação web, que utiliza o framework "Sails.js", com diagramas produzidos na ferramenta de diagramação "draw.io"(https://www.draw.io/).  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Desenvolvimento e apresentação de uma proposta de uma arquitetura detalhada para o projeto em grupo com a Parceiros Voltuntários. Arquitetura Model-View-Controller(MVC) de uma aplicação web, que utiliza o framework "Sails.js"(https://sailsjs.com/), com diagramas produzidos na ferramenta de diagramação "draw.io"(https://www.draw.io/).  
 
 ## Análise e Definição do Escopo
 ### Objetivo
