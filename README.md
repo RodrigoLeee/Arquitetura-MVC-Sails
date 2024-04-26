@@ -1,15 +1,15 @@
 # Arquitetura Model-View-Controller(MVC) 
 ## Descrição
 ### Descrição
-&nbsp;&nbsp;&nbsp;Desenvolvimento e apresentação de uma proposta de uma arquitetura detalhada para o projeto em grupo com a Parceiros Voltuntários. Arquitetura Model-View-Controller(MVC) de uma aplicação web, que utiliza o framework "Sails.js", com diagramas produzidos na ferramenta de diagramação "draw.io"(https://www.draw.io/).  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Desenvolvimento e apresentação de uma proposta de uma arquitetura detalhada para o projeto em grupo com a Parceiros Voltuntários. Arquitetura Model-View-Controller(MVC) de uma aplicação web, que utiliza o framework "Sails.js", com diagramas produzidos na ferramenta de diagramação "draw.io"(https://www.draw.io/).  
 
 ## Análise e Definição do Escopo
 ### Objetivo
-&nbsp;&nbsp;&nbsp;Construir uma aplicação web que usa o framework "Sails.js", ambiente de execução "Node.js" e o serviço "Render" para estabelecer uma arquitetura Model-View-Controller(MVC), que se conecta com um cliente web, que interage com o usuário por meio de HTML, CSS e Javascript. O MVC troca dados, com um servidor próprio, para a base de dados que é construída por meio do PostgreSQL.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Construir uma aplicação web que usa o framework "Sails.js", ambiente de execução "Node.js" e o serviço "Render" para estabelecer uma arquitetura Model-View-Controller(MVC), que se conecta com um cliente web, que interage com o usuário por meio de HTML, CSS e Javascript. O MVC troca dados, com um servidor próprio, para a base de dados que é construída por meio do PostgreSQL.
 <br>
-&nbsp;&nbsp;&nbsp;O framework "Sails.js" monta a arquitetura Model-View-Controller(MVC) de modo eficiente, economizando tempo dos desenvolvedores. Simplifica o processo de criar aplicações web que oferecem comunicação bidirecional entre cliente e servidor, e comunicação-em-tempo-real.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O framework "Sails.js" monta a arquitetura Model-View-Controller(MVC) de modo eficiente, economizando tempo dos desenvolvedores. Simplifica o processo de criar aplicações web que oferecem comunicação bidirecional entre cliente e servidor, e comunicação-em-tempo-real.
 <br>
-&nbsp;&nbsp;&nbsp;"PostgreSQL" é um banco de dados relacional, no qual os dados são estruturados em linhas e colunas dentro de tabelas. Esse sistema suporta diferentes tipos de dados, possui extensibilidade, e escalabilidade. O PostgreSQL é um projeto open-source.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"PostgreSQL" é um banco de dados relacional, no qual os dados são estruturados em linhas e colunas dentro de tabelas. Esse sistema suporta diferentes tipos de dados, possui extensibilidade, e escalabilidade. O PostgreSQL é um projeto open-source.
 <br>
 &nbsp;&nbsp;&nbsp;É de interesse que a aplicação web detalhada aqui possua escalabilidade dependendo da demanda necessária, e que possa evoluir e se adaptar de acordo com direrentes tecnologias emergentes, evolução do mercado e do usuário. Por esses motivos esse framework, ambiente de execução, serviço, e banco de dados foram selecionados.
 
@@ -31,10 +31,10 @@ Funcionalidades Essenciais
 
 ## Diagrama
 ### Sobre Diagramas
-Os diagramas do MVC foram criados e divididos em duas imagens diferentes. Uma se refere a "Landing Page" e a outra à "Plataforma". Isso permite uma maior organização durante o planejamento, desenvolvimento e implementação da arquitetura. Também, pois se fosse apenas uma imagem, ficaria com um excesso de conteúdo, diminuindo a legibilidade devido ao zoom ou tamanho da letra.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Os diagramas do MVC foram criados e divididos em duas imagens diferentes. Uma se refere a "Landing Page" e a outra à "Plataforma". Isso permite uma maior organização durante o planejamento, desenvolvimento e implementação da arquitetura. Também, pois se fosse apenas uma imagem, ficaria com um excesso de conteúdo, diminuindo a legibilidade devido ao zoom ou tamanho da letra.
 
 ### Diagrama da Landing Page
-Nesse diagrama, os itens na coluna "Views" são as diferentes páginas da "Landing Page" do site. Os diferentes itens da coluna "Controllers" se referem aos métodos HTTP sendo utilizados em cada página. O item da coluna "Models" está relacionado às informações a serem enviadas para a base de dados "PostgreSQL".
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nesse diagrama, os itens na coluna "Views" são as diferentes páginas da "Landing Page" do site. Os diferentes itens da coluna "Controllers" se referem aos métodos HTTP sendo utilizados em cada página. O item da coluna "Models" está relacionado às informações a serem enviadas para a base de dados "PostgreSQL".
 <div align="center" width="100%">
 <img src = "assets/MVCLandingPage.png " alt="MVCLandingPage">
 <sup>Figura 1: Aquitetura MVC da Landing Page, Fonte: Material produzido pelos autores (2024)</sup>
