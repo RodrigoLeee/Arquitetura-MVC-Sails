@@ -35,7 +35,7 @@ Plataforma:
 
 ## Diagrama
 ### Sobre Diagramas
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Os diagramas do MVC foram criados e divididos em duas imagens diferentes. Uma se refere a "Landing Page" e a outra à "Plataforma". Isso permite uma maior organização durante o planejamento, desenvolvimento e implementação da arquitetura. Também, pois se fosse apenas uma imagem, ficaria com um excesso de conteúdo, diminuindo a legibilidade devido ao zoom ou tamanho da letra.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Os diagramas do MVC foram criados e <b> divididos em duas imagens</b> diferentes. Uma se refere a "Landing Page" e a outra à "Plataforma". Isso permite uma maior organização durante o planejamento, desenvolvimento e implementação da arquitetura. Também, pois se fosse apenas uma imagem, ficaria com um excesso de conteúdo, diminuindo a legibilidade devido ao zoom ou tamanho da letra.
 
 ### Diagrama da Landing Page
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nesse diagrama, os itens na coluna "Views" são as diferentes páginas da "Landing Page" do site. Os diferentes itens da coluna "Controllers" se referem aos métodos HTTP sendo utilizados em cada página. O item da coluna "Models" está relacionado às informações a serem armazenadas, enviadas ou recebidas pela base de dados "PostgreSQL". 
