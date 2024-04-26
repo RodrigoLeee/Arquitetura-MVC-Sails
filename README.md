@@ -38,7 +38,9 @@ Plataforma:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Os diagramas do MVC foram criados e divididos em duas imagens diferentes. Uma se refere a "Landing Page" e a outra à "Plataforma". Isso permite uma maior organização durante o planejamento, desenvolvimento e implementação da arquitetura. Também, pois se fosse apenas uma imagem, ficaria com um excesso de conteúdo, diminuindo a legibilidade devido ao zoom ou tamanho da letra.
 
 ### Diagrama da Landing Page
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nesse diagrama, os itens na coluna "Views" são as diferentes páginas da "Landing Page" do site. Os diferentes itens da coluna "Controllers" se referem aos métodos HTTP sendo utilizados em cada página. O item da coluna "Models" está relacionado às informações a serem armazenadas, enviadas ou recebidas pela base de dados "PostgreSQL".
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nesse diagrama, os itens na coluna "Views" são as diferentes páginas da "Landing Page" do site. Os diferentes itens da coluna "Controllers" se referem aos métodos HTTP sendo utilizados em cada página. O item da coluna "Models" está relacionado às informações a serem armazenadas, enviadas ou recebidas pela base de dados "PostgreSQL". 
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A maioria dos métodos HTTP dessa página são "Endpoint Calling", exceto o "Create account" e "Login" que são compostos também de "Gravar" e "Listar", respectivamente.
 <div align="center" width="100%">
 <img src = "assets/MVCLandingPage.png " alt="MVCLandingPage">
 <sup>Figura 1: Aquitetura MVC da Landing Page, Fonte: Material produzido pelos autores (2024)</sup>
@@ -46,6 +48,8 @@ Plataforma:
 
 ### Diagrama da Plataforma
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nesse diagrama, os itens na coluna "Views" são as diferentes páginas e funcionalidades da "Plataforma". Os diferentes itens da coluna "Controllers" se referem aos métodos HTTP sendo utilizados em cada página. O item da coluna "Models" está relacionado às informações a serem armazenadas, enviadas ou recebidas pela base de dados "PostgreSQL".
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A plataforma utiliza mais métodos HTTP além do "Endpoint Calling", apesar de utilizar o "Endpoint Calling" em todos os módulos da coluna "Controllers". Utiliza "Listar", "Gravar" e "Profile". Existem também mais itens na coluna "Models", guardando uma maior variedade de dados a serem enviados ou recebidos pelo banco de dados.
 <div align="center" width="100%">
 <img src = "assets/MVCPlataforma.png " alt="MVCPlataforma">
 <sup>Figura 2: Aquitetura MVC da Plataforma, Fonte: Material produzido pelos autores (2024)</sup>
