@@ -1,11 +1,11 @@
 # Arquitetura Model-View-Controller(MVC) 
 ## Descrição
 ### Descrição
-Desenvolvimento e apresentação de uma proposta de uma arquitetura detalhada para o projeto em grupo com a Parceiros Voltuntários. Arquitetura Model-View-Controller(MVC) de uma aplicação web, que utiliza o framework "Sails.js", com diagramas produzidos na ferramenta de diagramação "draw.io"(https://www.draw.io/).  
+&nbsp;&nbsp;&nbsp;Desenvolvimento e apresentação de uma proposta de uma arquitetura detalhada para o projeto em grupo com a Parceiros Voltuntários. Arquitetura Model-View-Controller(MVC) de uma aplicação web, que utiliza o framework "Sails.js", com diagramas produzidos na ferramenta de diagramação "draw.io"(https://www.draw.io/).  
 
 ## Análise e Definição do Escopo
 ### Objetivo
-&nbsp;&nbsp;&nbsp;Construir uma aplicação web que usa o framework "Sails.js", ambiente de execução "Node.js" e o serviço "Render" para estabelecer uma arquitetura Model-View-Controller(MVC), que se conecta com um cliente web, que interage com o usuário por meio de HTML, CSS e Javascript. O MVC troca dados com um servidor próprio para a base de dados que é construída por meio do PostegreSQL.
+&nbsp;&nbsp;&nbsp;Construir uma aplicação web que usa o framework "Sails.js", ambiente de execução "Node.js" e o serviço "Render" para estabelecer uma arquitetura Model-View-Controller(MVC), que se conecta com um cliente web, que interage com o usuário por meio de HTML, CSS e Javascript. O MVC troca dados, com um servidor próprio, para a base de dados que é construída por meio do PostegreSQL.
 <br>
 &nbsp;&nbsp;&nbsp;O framework "Sails.js" monta a arquitetura Model-View-Controller(MVC) de modo eficiente, economizando tempo dos desenvolvedores. Simplifica o processo de criar aplicações web que oferecem comunicação bidirecional entre cliente e servidor, e comunicação-em-tempo-real.
 
@@ -20,7 +20,7 @@ Plataforma:
 - Feed: Visualizar publicações próprias e de outros usuários. Possibilidade de filtrar posts por tags ou categorias. 
 - Publicar: Criar e postar posts com ideias em geral ou específicas relacionadas ao trabalho voluntário ou ao voluntariado.
 - Comunidade: Visualizar perfis de ONGs cadastradas na plataforma. Cada ONG fornece dados sobre suas missões, projetos e metodologia. ONGs podem criar posts também
-- Perfil: 
+- Perfil: Usuário pode acessar o próprio perfil para visualizar o mesmo ou modificar configurações.
 
 ### Escopo
 Funcionalidades Essenciais
