@@ -5,7 +5,9 @@ Desenvolvimento e apresentação de uma proposta de uma arquitetura detalhada pa
 
 ## Análise e Definição do Escopo
 ### Objetivo
-Construir uma aplicação web que usa o framework "Sails.js", ambiente de execução "Node.js" e o serviço "Render" para estabelecer uma arquitetura Model-View-Controller(MVC), que se conecta com um cliente web, que interage com o usuário por meio de HTML, CSS e Javascript. O MVC troca dados com um servidor próprio para a base de dados que é construída por meio do PostegreSQL.
+&nbsp;&nbsp;&nbsp;Construir uma aplicação web que usa o framework "Sails.js", ambiente de execução "Node.js" e o serviço "Render" para estabelecer uma arquitetura Model-View-Controller(MVC), que se conecta com um cliente web, que interage com o usuário por meio de HTML, CSS e Javascript. O MVC troca dados com um servidor próprio para a base de dados que é construída por meio do PostegreSQL.
+<br>
+&nbsp;&nbsp;&nbsp;O framework "Sails.js" monta a arquitetura Model-View-Controller(MVC) de modo eficiente, economizando tempo dos desenvolvedores. Simplifica o processo de criar aplicações web que oferecem comunicação bidirecional entre cliente e servidor, e comunicação-em-tempo-real.
 
 ### Módulos, Funcionalidades, Recursos
 Landing Page:
