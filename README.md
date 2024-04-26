@@ -28,7 +28,9 @@ Plataforma:
 
 ### Escopo e Funcionalidades Essenciais
 <b>Autenticação de usuários</b>: Autenticação de usuário(login) e armazenamento de contas no banco de dados(cadastro) permitem acesso e personalização da plataforma.
+<br>
 <b>Feed</b>: Poder visualizar postagens próprias e de outros usuários aumenta a interação com a plataforma.
+<br>
 <b>Comunidade</b>: Encontrar ONGs e seus projetos possibilita a conexão entre voluntários e organizações.
 
 ## Diagrama
