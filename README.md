@@ -9,7 +9,7 @@ Construir uma aplicação web que usa o framework "Sails.js", ambiente de execu�
 
 ### Módulos, Funcionalidades, Recursos
 Landing Page:
-- Página Principal: Exposição de conteúdo que motiva o usuário se participar de projetos voluntários ou utilizar da plataforma.
+- Página Principal: Exposição de conteúdo que motiva o usuário a participar de projetos voluntários ou utilizar da plataforma.
 - Cadastro: Possibilidade de efetuar cadastro na plataforma
 - Login: Possibilidade de efetuar login na plataforma
 
