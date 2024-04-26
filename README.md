@@ -8,8 +8,20 @@ Desenvolvimento e apresentação de uma proposta de uma arquitetura detalhada pa
 Construir uma aplicação web que usa o framework "Sails.js", ambiente de execução "Node.js" e o serviço "Render" para estabelecer uma arquitetura Model-View-Controller(MVC), que se conecta com um cliente web, que interage com o usuário por meio de HTML, CSS e Javascript. O MVC troca dados no com um back-end contendo uma base de dados construída por meio do PostegreSQL.
 
 ### Módulos, Funcionalidades, Recursos
+Landing Page:
+- Página Principal: Exposição de conteúdo que motiva o usuário se participar de projetos voluntários ou utilizar da plataforma.
+- Cadastro: Possibilidade de efetuar cadastro na plataforma
+- Login: Possibilidade de efetuar login na plataforma
+
+Plataforma:
+- Autenticação de usuário: Cadastro de usuários, login, e logout.
+- Feed: Visualizar publicações próprias e de outros usuários. Possibilidade de filtrar posts por tags ou categorias. 
+- Publicar: Criar e postar posts com ideias em geral ou específicas relacionadas ao trabalho voluntário ou ao voluntariado.
+- Comunidade: Visualizar perfis de ONGs cadastradas na plataforma. Cada ONG fornece dados sobre suas missões, projetos e metodologia. ONGs podem criar posts também
+- Perfil: 
 
 ### Escopo
+Funcionalidades Essenciais
 
 ## Diagrama
 ### Sobre Diagramas
