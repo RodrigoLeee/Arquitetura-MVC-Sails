@@ -26,8 +26,10 @@ Plataforma:
 - Comunidade: Visualizar perfis de ONGs cadastradas na plataforma. Cada ONG fornece dados sobre suas missões, projetos e metodologia. ONGs podem criar posts também
 - Perfil: Usuário pode acessar o próprio perfil para visualizar o mesmo ou modificar configurações.
 
-### Escopo
-Funcionalidades Essenciais
+### Escopo e Funcionalidades Essenciais
+<b>Autenticação de usuários</b>: Autenticação de usuário(login) e armazenamento de contas no banco de dados(cadastro) permitem acesso e personalização da plataforma.
+<b>Feed</b>: Poder visualizar postagens próprias e de outros usuários aumenta a interação com a plataforma.
+<b>Comunidade</b>: Encontrar ONGs e seus projetos possibilita a conexão entre voluntários e organizações.
 
 ## Diagrama
 ### Sobre Diagramas
